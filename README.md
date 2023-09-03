@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @axumozavr
+- 👋 Hi, I’m Dmitriy
 - 👀 I’m interested in python & qa
 - 🌱 I’m currently learning qa theory
